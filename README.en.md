@@ -1,10 +1,10 @@
-<img src="https://github.com/highlightscoders/highlightscoders/blob/main/assets/img/banner.png">
+<img src="https://github.com/highlightscoders/highlightscoders/blob/main/assets/img/banner.png"><br>
 # <a href="https://highlightscoders.github.io/highlightscoders/" title="<HC/> Highlights Coders">ACCELERATE YOUR DIGITAL TRANSFORMATION WITH HIGHLIGHTS CODERS</a><br>
 ###  <span><</span>HC/> Highlights Coders<br>
-### We empower organizations to successfully face technological challenges.
+### We empower organizations to successfully face technological challenges.<br>
 We are a technology consulting community, we offer digital solutions to companies in various sectors, including finance, retail and telecommunications.<br>
 With more than 5 years of experience, Highlights Coders is an international technology consultancy that supports SMEs and large companies in their digital transformation with modular services, which provide talent, digital products and strategic alignment, thus ensuring compliance with the company's business objectives. your clients.<br>
-Through a unique combination of experience, creativity and strategic vision, we work closely to drive transformation and sustainable growth for our clients.<br>
+Through a unique combination of experience, creativity and strategic vision, we work closely to drive transformation and sustainable growth for our clients.<br><br>
 ## 🌐 We help you reach your maximum technological potential <br> 
 At Highlights Coders we accompany you throughout the entire life cycle of your digital experience, from the early stages of ideation to the creation of a futuristic roadmap.
 

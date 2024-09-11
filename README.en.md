@@ -1,6 +1,6 @@
 <img src="https://github.com/highlightscoders/highlightscoders/blob/main/assets/img/banner.png">
-# <a href="https://highlightscoders.github.io/highlightscoders/" title="<HC/> Highlights Coders">ACCELERATE YOUR DIGITAL TRANSFORMATION WITH HIGHLIGHTS CODERS</a>
-###  <span><</span>HC/> Highlights Coders
+# <a href="https://highlightscoders.github.io/highlightscoders/" title="<HC/> Highlights Coders">ACCELERATE YOUR DIGITAL TRANSFORMATION WITH HIGHLIGHTS CODERS</a><br>
+###  <span><</span>HC/> Highlights Coders<br>
 ### We empower organizations to successfully face technological challenges.
 We are a technology consulting community, we offer digital solutions to companies in various sectors, including finance, retail and telecommunications.<br>
 With more than 5 years of experience, Highlights Coders is an international technology consultancy that supports SMEs and large companies in their digital transformation with modular services, which provide talent, digital products and strategic alignment, thus ensuring compliance with the company's business objectives. your clients.<br>
@@ -15,7 +15,7 @@ At Highlights Coders we accompany you throughout the entire life cycle of your d
 
 ## 🌐 Find me at:
 [![WWW](https://img.shields.io/badge/www-%230077B5.svg?logo=linux&logoColor=white)](https://highlightscoders.github.io/highlightscoders/)   [![Gmail](https://img.shields.io/badge/gmail-d44638.svg?logo=gmail&logoColor=white)](mailto:highlightscoders@gmail.com?subject=Servicios)  [![Whatsapp](https://img.shields.io/badge/Whatsapp-%25D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573124929207&text=Hola!%20Estoy%20interesado%20en%20conocer%20uno%20de%20sus%20servicios.%20Tengo%20una%20pregunta...)
-<br>[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/highlightscoders/highlightscoders/blob/master/README.en.md)
+<br>[![en](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/highlightscoders/highlightscoders/blob/master/README.md)
 
 ***
 # 📊 GitHub Stats:

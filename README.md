@@ -1,10 +1,10 @@
-<img src="https://github.com/highlightscoders/highlightscoders/blob/main/assets/img/banner.png">
-# <a href="https://highlightscoders.github.io/highlightscoders/" title="<HC/> Highlights Coders">ACELERA TU TRANSFORMACIÓN DIGITAL CON HIGHLIGHTS CODERS</a>
-###  <span><</span>HC/> Highlights Coders
-### Empoderamos a las organizaciones para que enfrenten con éxito los desafíos tecnológicos.
+<img src="https://github.com/highlightscoders/highlightscoders/blob/main/assets/img/banner.png"><br>
+#   <a href="https://highlightscoders.github.io/highlightscoders/" title="<HC/> Highlights Coders">ACELERA TU TRANSFORMACIÓN DIGITAL CON HIGHLIGHTS CODERS</a><br>
+###  <span><</span>HC/> Highlights Coders<br>
+### Empoderamos a las organizaciones para que enfrenten con éxito los desafíos tecnológicos.<br>
 Somos una comunidad consultora de tecnología, ofrecemos soluciones digitales a empresas de diversos sectores, incluyendo finanzas, retail y telecomunicaciones.<br>
 Con más de 5 años de trayectoria, Highlights Coders es una consultora tecnológica internacional, que apoya a PyMES y grandes empresas en su transformación digital con servicios modulares, que disponen talento, productos digitales y alineamiento estratégico asegurando así el cumplimiento de los objetivos de negocio de sus clientes.<br>
-A través de una combinación única de experiencia, creatividad y visión estratégica, trabajamos en estrecha colaboración para impulsar la transformación y el crecimiento sostenible de nuestros clientes.<br>
+A través de una combinación única de experiencia, creatividad y visión estratégica, trabajamos en estrecha colaboración para impulsar la transformación y el crecimiento sostenible de nuestros clientes.<br><br>
 ## 🌐 Te ayudamos a alcanzar tu máximo potencial tecnológico <br> 
 En Highlights Coders te acompañamos en todo el ciclo de vida de tu experiencia digital, desde las etapas tempranas de ideación hasta la creación de un roadmap futurista.
 
